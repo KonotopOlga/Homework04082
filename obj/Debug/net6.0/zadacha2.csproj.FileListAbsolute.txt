@@ -1,0 +1,15 @@
+/Users/deniskonotop/Desktop/С#/Homework0408/zadacha2/bin/Debug/net6.0/zadacha2
+/Users/deniskonotop/Desktop/С#/Homework0408/zadacha2/bin/Debug/net6.0/zadacha2.deps.json
+/Users/deniskonotop/Desktop/С#/Homework0408/zadacha2/bin/Debug/net6.0/zadacha2.runtimeconfig.json
+/Users/deniskonotop/Desktop/С#/Homework0408/zadacha2/bin/Debug/net6.0/zadacha2.dll
+/Users/deniskonotop/Desktop/С#/Homework0408/zadacha2/bin/Debug/net6.0/zadacha2.pdb
+/Users/deniskonotop/Desktop/С#/Homework0408/zadacha2/obj/Debug/net6.0/zadacha2.csproj.AssemblyReference.cache
+/Users/deniskonotop/Desktop/С#/Homework0408/zadacha2/obj/Debug/net6.0/zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/deniskonotop/Desktop/С#/Homework0408/zadacha2/obj/Debug/net6.0/zadacha2.AssemblyInfoInputs.cache
+/Users/deniskonotop/Desktop/С#/Homework0408/zadacha2/obj/Debug/net6.0/zadacha2.AssemblyInfo.cs
+/Users/deniskonotop/Desktop/С#/Homework0408/zadacha2/obj/Debug/net6.0/zadacha2.csproj.CoreCompileInputs.cache
+/Users/deniskonotop/Desktop/С#/Homework0408/zadacha2/obj/Debug/net6.0/zadacha2.dll
+/Users/deniskonotop/Desktop/С#/Homework0408/zadacha2/obj/Debug/net6.0/refint/zadacha2.dll
+/Users/deniskonotop/Desktop/С#/Homework0408/zadacha2/obj/Debug/net6.0/zadacha2.pdb
+/Users/deniskonotop/Desktop/С#/Homework0408/zadacha2/obj/Debug/net6.0/zadacha2.genruntimeconfig.cache
+/Users/deniskonotop/Desktop/С#/Homework0408/zadacha2/obj/Debug/net6.0/ref/zadacha2.dll
